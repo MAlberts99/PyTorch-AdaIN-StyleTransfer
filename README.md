@@ -39,3 +39,4 @@ You can download my model from [here](). It has been trained for 120.000 iterati
 - Then run the rest of the cells.
 
 ## Results
+|Style | Generated Image
