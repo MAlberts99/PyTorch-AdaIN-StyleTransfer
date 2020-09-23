@@ -1,5 +1,5 @@
 # PyTorch-AdaIN-StyleTransfer
-This project is an unofficial PyTorch implementation of the paper: [**Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization**](https://arxiv.org/abs/1703.06868)
+This project is an unofficial PyTorch implementation of the paper using Google Colab: [**Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization**](https://arxiv.org/abs/1703.06868)
 
 All credit goes to: [Xun Huang](http://www.cs.cornell.edu/~xhuang/) and
 [Serge Belongie](http://blogs.cornell.edu/techfaculty/serge-belongie/)
@@ -11,3 +11,9 @@ The paper implements a style transfer algorithm, which uses a fixed pretrained v
   <img src='examples/architecture.jpg' width="600px">
 </p>
 
+## Requirements
+- A google drive account to run the notebooks.
+- A pretrained vgg19 pth file. I used the file provided by [Naoto Inoue](https://github.com/naoto0804/pytorch-AdaIN) in his implementation of the same paper. Link: [vgg_normalised.pth](https://drive.google.com/file/d/108uza-dsmwvbW2zv-G73jtVcMU_2Nb7Y/view).
+To train:
+- [2015 Coco Image Dataset, 13GB](http://images.cocodataset.org/zips/test2015.zip)
+- [WikiArt Dataset, 25.4GB](http://web.fsktm.um.edu.my/~cschan/source/ICIP2017/wikiart.zip)
