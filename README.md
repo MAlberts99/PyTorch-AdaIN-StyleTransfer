@@ -41,8 +41,8 @@ You can download my model from [here](). It has been trained for 120.000 iterati
 ## Results
 |Style | Generated Image |
 | :----: | :----: |
-|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/style1_small.jpg)|https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/Out_Style1_small.jpg|
-|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/style2_small.jpg)|https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/Out_Style2_small.jpg|
-|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/style3_small.jpg)|https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/Out_Style3_small.jpg|
-|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/style4_small.jpg)|https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/Out_Style4_small.jpg|
-|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/style5_small.jpg)|https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/Out_Style5_small.jpg|
+|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/style1_small.jpg)|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/Out_Style1_small.jpg)|
+|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/style2_small.jpg)|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/Out_Style2_small.jpg)|
+|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/style3_small.jpg)|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/Out_Style3_small.jpg)|
+|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/style4_small.jpg)|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/Out_Style4_small.jpg)|
+|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/style5_small.jpg)|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/Out_Style5_small.jpg)|
