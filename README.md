@@ -27,5 +27,10 @@ You can download my model from [here](). It has been trained for 120.000 iterati
 
 ## Manual
 - Copy the content of this repository into a Google Drive folder. Then download the pretrained vgg19 file and place it in the same folder. If you want to play around with the network add the pretrained network file as well. If you want to train the network from scratch, e.g change the style weight download the datasets as well.
-### Interference
-- Open the Style Trans
+#### Interference
+- Open the Style Transfer Test notebook. In the first cell you need to specify the directory of the folder in your Google Drive. Additionally if you changed the image folder you also need to change the `img_dir` variable accordingly.
+- The next cell will load the network.
+- Then the images are loaded. Here you can choose your images. 
+- In the next cell you can change the `alpha` variable. This variable influences the impact of the style image on the content image.
+#### Training
+
