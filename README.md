@@ -19,3 +19,13 @@ The paper implements a style transfer algorithm, which uses a fixed pretrained v
 To train:
 - [2015 Coco Image Dataset, 13GB](http://images.cocodataset.org/zips/test2015.zip)
 - [WikiArt Dataset, 25.4GB](http://web.fsktm.um.edu.my/~cschan/source/ICIP2017/wikiart.zip)
+
+A note on the Datasets: The free version of Google Colab only has 30GB of usable storage while using the GPU. Thus you may have to reduce the size of the dataset. In this implementation I used 40k images of each dataset.
+
+## Trained Model
+You can download my model from [here](). It has been trained for 120.000 iteration and provides an image quality close to the offical implementation. The style weight (gamma) used was 2.0.
+
+## Manual
+- Copy the content of this repository into a Google Drive folder. Then download the pretrained vgg19 file and place it in the same folder. If you want to play around with the network add the pretrained network file as well. If you want to train the network from scratch, e.g change the style weight download the datasets as well.
+### Interference
+- Open the Style Trans
