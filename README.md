@@ -47,5 +47,5 @@ You can download my model from [here](https://drive.google.com/file/d/1-96gmMVd1
 |![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/style4_small.jpg)|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/Out_Style4_small.jpg)|
 |![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/style5_small.jpg)|![](https://github.com/MAlberts99/PyTorch-AdaIN-StyleTransfer/blob/master/Images/Out_Style5_small.jpg)|
 
-As can be seen above the results are not quite as good as the one presented in the paper. This can be explained by the model in the paper being trained for 160.000 iterations. I only trained mine for 120.000. Additionally, the original model was trained on 80.000 images of each type in whereas I only trained on 40.000 images. However the latter, will likely have a low impact on quality as I random shuffled the images.
+As can be seen above the results are not quite as good as the one presented in the paper. This can be explained by the model in the paper being trained for 160.000 iterations. I only trained mine for 120.000. Additionally, the original model was trained on 80.000 images of each type in whereas I only trained on 40.000 images.
 
